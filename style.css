@@ -1,0 +1,153 @@
+.col-12{
+    width: auto;
+}
+.row-p{
+    padding-left: 0;
+    padding-right: 0;
+}
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+
+
+.navbar-icons i{
+    font-size: 1.2rem;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+.navbar-text span{
+    font-size: 0.9rem;
+}
+
+.try{
+    text-decoration: none;
+}
+
+.try:hover{
+    text-decoration: underline;
+}
+
+.avatar img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 5;
+}
+
+.left-text a{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+
+.left-text:hover{
+    text-decoration: underline;
+}
+
+.left-text-2 a{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+
+.left-text-2:hover{
+    text-decoration: underline;
+}
+
+.left-li{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-family: 'Lato', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+
+.left-li:hover{
+    background-color: rgba(107, 108, 109, 0.384);
+    
+}
+
+.left-li-2{
+    border-radius: 0;
+}
+.left-li-2:hover{
+    border-radius: 0 0 10px 10px;
+}
+
+
+ul{
+    padding-left: 0px;
+}
+
+.tpff:hover b{
+    color: #0d6efd;
+}
+
+.sidebar{
+    font-family: 'Lato', sans-serif;
+    font-family: 'PT Serif', serif;
+    list-style: none;
+    margin-top: 5px;
+    text-decoration: none;
+    
+}
+
+.sidebar:hover{
+    text-decoration: underline;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.font{
+    font-family: 'Lato', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+
+.text-area{
+    background-color: white;
+    
+}
+
+.text-area:hover{
+    background-color: rgb(0 0 0 / 30%);
+    transition: 0.4s;
+    
+}
+
+.top-feed{
+    float: left;
+    margin-inline: 16px;
+    align-items: center;
+    margin-top: 15px;
+    padding: 10px 5px 5px 5px ;
+    align-items:flex-start;
+    
+    
+}
+
+.top-feed:hover{
+    background-color: rgb(0, 0, 0,0.2);
+    border-radius: 10px;
+}
+
+.dropdown-top ul{
+    margin-left:362px !important ;
+}
+
+.btn {
+    margin-top: 0 !important;
+
+    
+}
